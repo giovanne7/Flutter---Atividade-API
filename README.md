@@ -16,7 +16,7 @@ Clone o repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/crypto-app-flutter.git
+git clone https://github.com/giovanne7/crypto-app-flutter.git
 cd crypto-app-flutter
 Instale as dependências:
 
